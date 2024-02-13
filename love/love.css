@@ -191,7 +191,7 @@ body{
     border-radius: 5px;
     padding: 0px 10px;
     font-family: 'Protest Riot', cursive;
-    font-size: 10px;
+    font-size: 8px;
     z-index: 11;
     opacity: 0;
     animation: boxSlider 1s 9s forwards ease-out;
